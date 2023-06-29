@@ -248,7 +248,7 @@ header {
   content: "80%";
 }
 .progress-line .javascript::after {
-  content: "60%";
+  content: "70%";
 }
 .progress-line .c::after {
   content: "60%";
